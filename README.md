@@ -14,3 +14,5 @@ Labs completed from the AZ-104 curriculum, with screenshots demonstrating each t
 | [Lab 03](AZ-104/Lab-03-ARM-Templates/) | Manage Azure Resources via ARM Templates |
 | [Lab 04](AZ-104/Lab-04-Virtual-Networking/) | Configure Virtual Networking |
 | [Lab 05](AZ-104/Lab-05-Intersite-Connectivity/) | Implement Intersite Connectivity |
+| [Lab 06](AZ-104/Lab-06-Traffic-Management/) | Implement Traffic Management |
+| Lab 07 *(in progress)* | Create and Configure a Storage Account |
